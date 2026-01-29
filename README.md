@@ -1,7 +1,7 @@
 # umsakazo
 NanoVNA RF Learning board (RF demo kit SMA training)
 
-# You can now buy it at [https://www.rootkit.es ![](stuff/boardstobuy.png)](https://www.rootkit.es/)
+## You can now buy it at [https://www.rootkit.es ![](stuff/boardstobuy.png)](https://www.rootkit.es/)
 
 # NanoVNA Tutorial
 Learn how to use NanoVNA and some electronics from scratch with this PCB.
